@@ -1,6 +1,6 @@
 ---
-title: Threats
+title: Email Security
 layout: page
-permalink: /threats
+permalink: /email security
 ---
 This is my page about keeping your email safe.
