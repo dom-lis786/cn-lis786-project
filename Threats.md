@@ -1,6 +1,6 @@
 ---
-title: Threats
+title: Password Security
 layout: page
-permalink: /threats
+permalink: /password security
 ---
-This is my page about cyberthreats and what they each mean
+This is my page about keeping your password safe
