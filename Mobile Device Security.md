@@ -9,4 +9,4 @@ my_variable: Welcome to my CyberSecurity Awareness Site
 
 {{ page.my_variable }}
 
-<img src="{{ page.image_url_2 }}" alt="Mobile-Lock">
+{% include page-image.html %}
