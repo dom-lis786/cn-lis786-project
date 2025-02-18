@@ -7,6 +7,6 @@ image_alt_2: Mobile-Security
 my_variable: Welcome to my CyberSecurity Awareness Site
 ---
 
-{{ page.my_variables }}
+{{ page.my_variable }}
 
 <img src="{{ page.image_url_2 }}" alt="Mobile-Lock">
