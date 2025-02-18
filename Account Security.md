@@ -6,6 +6,7 @@ image_url: https://informationage-production.s3.amazonaws.com/uploads/2022/10/wh
 image_alt: Login-Credentials
 my_variable: Welcome to Account Security
 ---
+
 {{ page.my_variable }}
 
 {% include page-image.html %}
