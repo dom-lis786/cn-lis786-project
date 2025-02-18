@@ -7,4 +7,4 @@ my_variable: Welcome to my CyberSecurity Awareness site
 ---
 {{ page.my_variable }}
 
-<img src="{{ page.image_url }}" alt="Login Credentials">
+{% include page-image.html %}
