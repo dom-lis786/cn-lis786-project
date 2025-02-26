@@ -1,12 +1,12 @@
 title: CyberSecurity Awareness
 theme: minima
 collections:
-  collection:
+  cybersecurity:
     output: true
 
 
 defaults:
   - scope:
-      type: "collection"
+      type: "cybersecurity"
     values:
-      layout: collection_item
+      layout: cybersecurity
