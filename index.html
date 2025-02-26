@@ -13,10 +13,10 @@ extorting money from users through ransomware; or interrupting normal business p
 <br>
 <h2>List of CyberSecurity Threats</h2>
 
-{% for hacking in site.hacking %}
+{% for hacking in site.cybersecurity %}
 
-    <h3>{{ hacking.title }}</h3>
-    <p><img src="{{ hacking.image }}" alt="Computer-screen-lock" /></p>
-    <p>{{ hacking.content }}</p>
-    <p>Category: {{ hacking.category }}</p>
+    <h3>{{ cybersecurity.title }}</h3>
+    <p><img src="{{ cybersecurity.image }}" alt="Computer-screen-lock" /></p>
+    <p>{{ cybersecurity.content }}</p>
+    <p>Category: {{ cybersecurity.category }}</p>
 {% endfor %}
