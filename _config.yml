@@ -7,6 +7,6 @@ collections:
 
 defaults:
   - scope:
-      type: "cybersecurity"
+      type: "resources"
     values:
       layout: security
