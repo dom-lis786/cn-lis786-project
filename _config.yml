@@ -9,4 +9,4 @@ defaults:
   - scope:
       type: "cybersecurity"
     values:
-      layout: cybersecurity
+      layout: security
